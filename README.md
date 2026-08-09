@@ -2,25 +2,25 @@
 
 A Java Swing and MySQL-based desktop application designed to automate the generation and management of semester examination supervision charts.
 
-## 📌 Overview
+## Overview
 
 The Semester Exam Supervision System helps colleges manage examination supervision by maintaining teacher and examination information and automatically assigning teachers to examination duties.
 
 The system reduces manual work and helps create an organized supervision chart.
 
-## ✨ Features
+## Features
 
-- 👨‍🏫 Teacher management
-- 📝 Examination management
-- ☑️ Teacher availability selection
-- 🎲 Random teacher assignment
-- 📊 Automated supervision chart generation
-- 📄 PDF export
-- 📊 Excel export
-- 🗄️ MySQL database integration
-- 🖥️ Java Swing graphical user interface
+-  Teacher management
+-  Examination management
+-  Teacher availability selection
+-  Random teacher assignment
+-  Automated supervision chart generation
+-  PDF export
+-  Excel export
+-  MySQL database integration
+-  Java Swing graphical user interface
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Java**
 - **Java Swing**
@@ -29,7 +29,7 @@ The system reduces manual work and helps create an organized supervision chart.
 - **Maven**
 - **NetBeans**
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Semester-Exam-Supervision-System/
