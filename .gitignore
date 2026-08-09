@@ -1,0 +1,28 @@
+# Maven
+target/
+*.class
+
+# NetBeans
+/nbbuild/
+/dist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Environment/config files
+.env
